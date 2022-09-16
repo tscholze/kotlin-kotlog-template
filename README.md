@@ -7,7 +7,7 @@ No, I do not think that you wanna use this Kotlin CLI. It is meant as a content 
 ![](https://github.com/tscholze/kotlin-kotlog-cli/blob/main/docs/kotlog-markdown2html.png?raw=true)
 
 ## Development
-The development of kotlog cli happens that the repository [tscholze/kotlin-kotlog-cli]. Please have a look there if you are interested in the development aspect of the program.
+The development of kotlog cli happens at the [repository 'tscholze/kotlin-kotlog-cli'](tscholze/kotlin-kotlog-cli). Please have a look there if you are interested in the development aspect of the program.
 
 ## Structure
 - `__posts/` - contains all Markdown posts that will be rendered
