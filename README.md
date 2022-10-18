@@ -12,14 +12,14 @@ The development of kotlog cli happens at the [repository 'tscholze/kotlin-kotlog
 ## Structure
 - `__posts/` - contains all Markdown posts that will be rendered
 - `__styles` - contains all drop-in css style files
-- `__output` - is the regenerated html output directory
+- `docs` - is the regenerated html output directory
 
 ## Usage
 
 Clone the this repository first, then you are ready to run the CLI. This will not work on Windows systems if you use Git-Bash, PowerShell or the DOS terminal.
 
 ```
-java -jar kotlog [options]
+./kotlog [options]
  -c 'My awesome title'  : Creates a new blog post
  -y 'beYqB6QXQuY'       : Creates a YouTube post
  -g                     :  Generates HTML output
