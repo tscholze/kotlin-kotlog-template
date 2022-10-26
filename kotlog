@@ -114,7 +114,7 @@ case "$( uname )" in                #(
   NONSTOP* )        nonstop=true ;;
 esac
 
-CLASSPATH=$APP_HOME/lib/Kotlog-1.0.5.jar:$APP_HOME/lib/kotlinx-serialization-json-jvm-1.4.0.jar:$APP_HOME/lib/kotlinx-cli-jvm-0.3.5.jar:$APP_HOME/lib/kotlinx-serialization-core-jvm-1.4.0.jar:$APP_HOME/lib/kotlin-stdlib-jdk8-1.7.10.jar:$APP_HOME/lib/commonmark-ext-yaml-front-matter-0.19.0.jar:$APP_HOME/lib/commonmark-ext-gfm-tables-0.19.0.jar:$APP_HOME/lib/commonmark-ext-autolink-0.19.0.jar:$APP_HOME/lib/commonmark-0.19.0.jar:$APP_HOME/lib/jsoup-1.15.3.jar:$APP_HOME/lib/turtle-0.8.0.jar:$APP_HOME/lib/kotlin-stdlib-jdk7-1.7.10.jar:$APP_HOME/lib/kotlin-stdlib-1.7.10.jar:$APP_HOME/lib/autolink-0.10.0.jar:$APP_HOME/lib/kotlin-stdlib-common-1.7.10.jar:$APP_HOME/lib/annotations-13.0.jar
+CLASSPATH=$APP_HOME/lib/Kotlog-1.0.7.jar:$APP_HOME/lib/kotlinx-serialization-json-jvm-1.4.0.jar:$APP_HOME/lib/kotlinx-cli-jvm-0.3.5.jar:$APP_HOME/lib/kotlinx-serialization-core-jvm-1.4.0.jar:$APP_HOME/lib/kotlin-stdlib-jdk8-1.7.10.jar:$APP_HOME/lib/commonmark-ext-yaml-front-matter-0.19.0.jar:$APP_HOME/lib/commonmark-ext-gfm-tables-0.19.0.jar:$APP_HOME/lib/commonmark-ext-autolink-0.19.0.jar:$APP_HOME/lib/commonmark-0.19.0.jar:$APP_HOME/lib/jsoup-1.15.3.jar:$APP_HOME/lib/turtle-0.8.0.jar:$APP_HOME/lib/kotlin-stdlib-jdk7-1.7.10.jar:$APP_HOME/lib/kotlin-stdlib-1.7.10.jar:$APP_HOME/lib/autolink-0.10.0.jar:$APP_HOME/lib/kotlin-stdlib-common-1.7.10.jar:$APP_HOME/lib/annotations-13.0.jar
 
 
 # Determine the Java command to use to start the JVM.
